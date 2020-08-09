@@ -1,0 +1,5 @@
+*.out
+*.local
+*.local~
+dist/
+dist-newstyle/
